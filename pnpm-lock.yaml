@@ -39,8 +39,8 @@ importers:
         specifier: ^3.1.1
         version: 3.2.0
       lucide-svelte:
-        specifier: ^0.395.0
-        version: 0.395.0(svelte@4.2.18)
+        specifier: ^0.399.0
+        version: 0.399.0(svelte@4.2.18)
       ms:
         specifier: 2.1.3
         version: 2.1.3
@@ -1477,8 +1477,8 @@ packages:
   lucia@3.2.0:
     resolution: {integrity: sha512-eXMxXwk6hqtjRTj4W/x3EnTUtAztLPm0p2N2TEBMDEbakDLXiYnDQ9z/qahjPdPdhPguQc+vwO0/88zIWxlpuw==}
 
-  lucide-svelte@0.395.0:
-    resolution: {integrity: sha512-gl4HIIGUyj3seZf/CQ6vG38oMnNmdO1lcBQaMsB5pFpnL1T13qlfqjMjfTCnsKMFjiIFr3LttE/LFVi/GXmV0A==}
+  lucide-svelte@0.399.0:
+    resolution: {integrity: sha512-NQ8AxNMKbIJsx7HV//gnAsIY1wJfb3rbXSK2S/ZDjIldvAEdzGngpUT8T8Q8zHYUuii0bavAmVARN8giR4vvpA==}
     peerDependencies:
       svelte: ^3 || ^4 || ^5.0.0-next.42
 
@@ -3557,7 +3557,7 @@ snapshots:
     dependencies:
       oslo: 1.2.0
 
-  lucide-svelte@0.395.0(svelte@4.2.18):
+  lucide-svelte@0.399.0(svelte@4.2.18):
     dependencies:
       svelte: 4.2.18
 
